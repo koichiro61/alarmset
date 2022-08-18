@@ -1,0 +1,67 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 0}, {500, 500}}",
+        "class" : "View",
+        "attributes" : {
+          "frame" : "{{110, 190}, {100, 100}}",
+          "class" : "View",
+          "name" : "view1",
+          "uuid" : "0C385E93-C3E3-410F-A563-8C6223BAB2B8"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{140, 28}, {200, 309}}",
+        "class" : "TableView",
+        "attributes" : {
+          "flex" : "WH",
+          "data_source_items" : "",
+          "background_color" : "RGBA(1.0, 1.0, 1.0, 1.0)",
+          "frame" : "{{60, 140}, {200, 200}}",
+          "uuid" : "8ED691D5-68F4-4196-8DAC-132C0B5FE944",
+          "data_source_number_of_lines" : 1,
+          "class" : "TableView",
+          "data_source_delete_enabled" : true,
+          "data_source_font_size" : 18,
+          "name" : "tableview1",
+          "row_height" : 44
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{140, 354}, {200, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "uuid" : "8729F1E1-F987-4A64-9260-B5EB9CFE945A",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "title" : "New Alarm",
+          "class" : "Button",
+          "name" : "button1",
+          "font_size" : 15
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {500, 500}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]

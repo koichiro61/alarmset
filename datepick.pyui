@@ -1,0 +1,61 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 0}, {500, 500}}",
+        "class" : "View",
+        "attributes" : {
+          "frame" : "{{110, 190}, {100, 100}}",
+          "class" : "View",
+          "name" : "view1",
+          "uuid" : "05FDB37A-99C4-460D-B1A6-3163829AE792"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 132}, {320, 216}}",
+        "class" : "DatePicker",
+        "attributes" : {
+          "class" : "DatePicker",
+          "frame" : "{{0, 132}, {320, 216}}",
+          "name" : "datepicker1",
+          "mode" : 2,
+          "uuid" : "841C08A8-E46A-4F21-A723-500A08784C83"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{41, 389}, {243, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "uuid" : "35464544-8139-4774-9943-86ABBD0AB9AC",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "title" : "ok",
+          "class" : "Button",
+          "name" : "button1",
+          "font_size" : 15
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {500, 500}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]

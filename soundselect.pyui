@@ -1,0 +1,67 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 0}, {500, 500}}",
+        "class" : "View",
+        "attributes" : {
+          "frame" : "{{110, 190}, {100, 100}}",
+          "class" : "View",
+          "name" : "view1",
+          "uuid" : "38770E32-1983-40D8-A8DA-96CA72E87BDC"
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{60, 140}, {200, 200}}",
+        "class" : "TableView",
+        "attributes" : {
+          "flex" : "WH",
+          "data_source_items" : "Drums_01\nDrums_02\nDrums_03",
+          "data_source_font_size" : 18,
+          "frame" : "{{60, 140}, {200, 200}}",
+          "uuid" : "9B1AD26E-C3D9-454C-AD95-F6BC75A51924",
+          "data_source_number_of_lines" : 1,
+          "class" : "TableView",
+          "background_color" : "RGBA(1.0, 1.0, 1.0, 1.0)",
+          "data_source_delete_enabled" : true,
+          "name" : "tableview1",
+          "row_height" : 44
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{60, 389}, {200, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "uuid" : "8726498F-41D2-44F1-9CEC-44EF81B10098",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "title" : "ok",
+          "class" : "Button",
+          "name" : "button1",
+          "font_size" : 15
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {500, 500}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
